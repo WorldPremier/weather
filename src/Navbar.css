@@ -1,0 +1,39 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #282c34;
+    height: 100%;
+  }
+  
+  li {
+    float: left;
+    margin: 0;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #282c34;
+  }
+  ul img{
+      height: 50px;
+      width: 80px;
+      
+      margin: 0;
+      padding: 0 0 0 30px;
+  }
+  hr{
+      margin-top: 0;
+      padding: 0 0 0 0;
+      margin: 0 0 0 0;
+  }
+.nav{
+    height: 50px;
+}
